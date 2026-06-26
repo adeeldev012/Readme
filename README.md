@@ -1,6 +1,6 @@
 [![@adeeldev012's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@adeeldev012)
 
-<h1 align="center">Hi 👋, I'm Adeel Ahmed Baloch</h1>
+<h1 align="center">Hi 👋, I'm Adeel Baloch</h1>
 <h3 align="center">A passionate Backend Developer from Pakistan 🇵🇰</h3>
 
 ###
