@@ -1,6 +1,6 @@
-[![@adeelbaloch's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@adeelbaloch)
+[![@adeeldev012's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@adeeldev012)
 
-<h1 align="center">Hi 👋, I'm Adeel Baloch</h1>
+<h1 align="center">Hi 👋, I'm Adeel Ahmed Baloch</h1>
 <h3 align="center">A passionate Backend Developer from Pakistan 🇵🇰</h3>
 
 ###
@@ -98,12 +98,12 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adeelbaloch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adeelbaloch&theme=radical&hide_border=true&background=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adeeldev012&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adeeldev012&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelbaloch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeeldev012&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -111,12 +111,12 @@
 ## 🐍 Contribution Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adeelbaloch/adeelbaloch/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/adeeldev012/adeeldev012/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<h3 align="center">📸 Follow Me on Instagram:</h3>
+<h3 align="center">📸 Follow Me on Social Media:</h3>
 <p align="center">
   <a href="https://instagram.com/adeel.baloch1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
