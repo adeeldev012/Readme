@@ -1,31 +1,32 @@
-name: Generate Snake Animation
+name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # Har roz midnight par run hoga
+  workflow_dispatch:      # Aap manually bhi run kar sakte hain
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-    
+      contents: write      # 👈 Zaroori hai branch banane aur push karne ke liye
+
     steps:
-      - name: Checkout Code
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
+        id: snake-gif
         with:
-          github_user_name: adeeldev012
+          github_user_name: adeeldev012   # 👈 Aapka username
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to Output Branch
+      - name: Deploy to 'output' branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
+          publish_branch: output          # 👈 File yahan store hogi
           publish_dir: dist
-          force_orphan: true
+          force_orphan: true              # 👈 Branch saaf aur nayi banayega
