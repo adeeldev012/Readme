@@ -1,196 +1,142 @@
-🚀 Complete Professional README.md
+[![@adeelbaloch's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@adeelbaloch)
 
-Copy and paste this entire code directly into your README.md file:
+<h1 align="center">Hi 👋, I'm Adeel Baloch</h1>
+<h3 align="center">A passionate Backend Developer from Pakistan 🇵🇰</h3>
 
-```markdown
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;MERN+Stack+Expert;API+Architect;Problem+Solver" alt="Typing SVG" />
-</p>
+###
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&style=for-the-badge&color=success" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yourusername?label=STARS&style=for-the-badge&color=yellow" alt="Stars" />
-</p>
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Coding" />
 
----
+###
 
-## 👨‍💻 About Me
+- 🔭 I’m currently working on **Scalable Backend Systems**
+  
+- 🌱 I’m currently learning **System Design & Cloud Architecture**
 
-```python
-class BackendDeveloper:
-    def __init__(self):
-        self.name = "Muhammad Ahmed"
-        self.role = "Backend Developer"
-        self.location = "Pakistan 🇵🇰"
-        self.experience = "3 Years"
-        self.specialization = ["API Development", "Database Design", "System Architecture"]
-        self.instagram = "@yourinstagram"
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing 🚀")
-    
-    def get_contact(self):
-        return "📧 your.email@gmail.com | 📸 instagram.com/yourinstagram"
+- 💬 Ask me about **Node.js, Python, Express.js, MongoDB, Supabase**
 
-me = BackendDeveloper()
-me.say_hi()
-```
+- 📫 How to reach me **adeelbaloch@gmail.com**
+
+- ⚡ Fun fact: **I write clean code that scales! 🚀**
 
 ---
 
-🌟 Quick Overview
-
-· 🔭 Currently working on Scalable Microservices Architecture
-· 🌱 Learning Cloud Computing (AWS & Azure)
-· 👯 Looking to collaborate on Open Source Projects
-· 💬 Ask me about Node.js, Express, MongoDB, PostgreSQL
-· 📫 Reach me: your.email@gmail.com
-· 📸 Follow me on Instagram: @yourinstagram
-· ⚡ Fun fact: I write code that even future me understands!
-
----
-
-🛠️ Tech Stack
-
-Languages & Frameworks
-
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<a href="https://instagram.com/adeel.baloch1" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adeel.baloch1" height="30" width="40" />
+</a>
+<a href="https://facebook.com/yourfacebook" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourfacebook" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/adeelbaloch" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeelbaloch" height="30" width="40" />
+</a>
+<a href="https://twitter.com/adeelbaloch" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adeelbaloch" height="30" width="40" />
+</a>
+</p> 
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
+  </a> 
+  <a href="https://supabase.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
+  </a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
+  </a>
+</p>
+
+---
+
+<h3 align="left">🔥 My Tech Stack:</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
-Databases
-
-<p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-DevOps & Tools
-
-<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
-📊 GitHub Analytics
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adeelbaloch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adeelbaloch&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
-🐍 Contribution Snake Game
-
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelbaloch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-📱 Connect With Me
+## 🐍 Contribution Snake Game
 
 <p align="center">
-  <a href="https://www.instagram.com/yourinstagram/">
+  <img src="https://raw.githubusercontent.com/adeelbaloch/adeelbaloch/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<h3 align="center">📸 Follow Me on Instagram:</h3>
+<p align="center">
+  <a href="https://instagram.com/adeel.baloch1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
+  <a href="https://facebook.com/yourfacebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adeelbaloch">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourtwitter">
+  <a href="https://twitter.com/adeelbaloch">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/yourchannel">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 Project 1</h3>
-      <p align="center">
-        <a href="https://github.com/yourusername/project1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
-        </a>
-      </p>
-      <p align="center">Full-stack application with MERN stack</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ Project 2</h3>
-      <p align="center">
-        <a href="https://github.com/yourusername/project2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
-        </a>
-      </p>
-      <p align="center">RESTful API with Node.js & PostgreSQL</p>
-    </td>
-  </tr>
-</table>
-
----
-
-🎯 Current Goals
-
-· Complete AWS Certification
-· Build Open Source Project
-· Write 10 Blog Posts
-· Contribute to 5 Repositories
-· Learn GraphQL
-
----
-
-💰 Support Me
-
+<h3 align="center">⭐ Show Some Love</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-  <a href="https://www.patreon.com/yourusername">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- Footer -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Coding+%26+Stay+Awesome!;Let's+connect+on+Instagram!+%F0%9F%93%B8" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+Coding+%26+Stay+Awesome!;Follow+on+Instagram+%40adeel.baloch1" alt="Footer Typing" />
 </p>
 
 <p align="center">
