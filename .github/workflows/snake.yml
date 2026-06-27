@@ -1,4 +1,4 @@
-name: Generate Snake Game
+name: Generate Professional Snake
 
 on:
   workflow_dispatch:
@@ -15,15 +15,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Professional Snake
         uses: Platane/snk@v3
         with:
           github_user_name: adeeldev012
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ff00&color_dots=#00ff00,#00cc00,#009900,#006600,#003300
-            dist/github-snake.svg?palette=github-light&color_snake=#ff6b6b&color_dots=#ff6b6b,#ee5a24,#d63031,#c0392b,#e74c3c
+            # Dark version - Rainbow snake
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff6b6b&color_dots=#ff6b6b,#ff9f43,#feca57,#00d2d3,#54a0ff,#5f27cd,#ff6b6b,#ff9f43&animation_interval=30&animation_loop=infinite&snake_length=200&speed=4&trail_length=80
+            
+            # Light version - Neon snake
+            dist/github-snake.svg?palette=github-light&color_snake=#6c5ce7&color_dots=#6c5ce7,#a29bfe,#fd79a8,#fdcb6e,#00cec9,#6c5ce7&animation_interval=30&animation_loop=infinite&snake_length=200&speed=4&trail_length=80
 
-      - name: Deploy to Output Branch
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -32,4 +35,4 @@ jobs:
           force_orphan: true
           user_name: 'adeeldev012'
           user_email: 'adeeldev012@users.noreply.github.com'
-          commit_message: 'Generate fast snake animation'
+          commit_message: 'Generate professional long snake animation'
