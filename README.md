@@ -1,5 +1,3 @@
-[![@adeeldev012's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@adeeldev012)
-
 <h1 align="center">Hi 👋, I'm Adeel Baloch</h1>
 <h3 align="center">A passionate Backend Developer from Pakistan 🇵🇰</h3>
 
@@ -15,8 +13,6 @@
 
 - 💬 Ask me about **Node.js, Python, Express.js, MongoDB, Supabase**
 
-- 📫 How to reach me **adeelbaloch@gmail.com**
-
 - ⚡ Fun fact: **I write clean code that scales! 🚀**
 
 ---
@@ -26,14 +22,8 @@
 <a href="https://instagram.com/adeel.baloch1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adeel.baloch1" height="30" width="40" />
 </a>
-<a href="https://facebook.com/yourfacebook" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yourfacebook" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/adeelbaloch" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeelbaloch" height="30" width="40" />
-</a>
-<a href="https://twitter.com/adeelbaloch" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adeelbaloch" height="30" width="40" />
+<a href="https://www.facebook.com/share/1EgPNLhLQ4/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adeelbaloch" height="30" width="40" />
 </a>
 </p> 
 
@@ -56,24 +46,6 @@
   <a href="https://supabase.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="50" height="50"/> 
   </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
-  </a>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
-  </a>
 </p>
 
 ---
@@ -86,11 +58,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
@@ -121,14 +88,8 @@
   <a href="https://instagram.com/adeel.baloch1">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://facebook.com/yourfacebook">
+  <a href="https://www.facebook.com/share/1EgPNLhLQ4/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/adeelbaloch">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/adeelbaloch">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
