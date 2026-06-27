@@ -111,7 +111,7 @@
 ## 🐍 Contribution Snake Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adeeldev012/adeeldev012/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://adeeldev012.github.io/Readme/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
